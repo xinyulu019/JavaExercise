@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35a5d86e-836a-41db-9252-a2b8de477174" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="35a5d86e-836a-41db-9252-a2b8de477174" name="Changes" comment="20230301&#10;第一次push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Building9x9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Building9x9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BuildingTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuildingTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -25,6 +23,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7d8daa26-8b10-4609-b6fe-536306504c5e" />
+        <option name="url" value="https://github.com/xinyulu019/JavaExercise.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,6 +69,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="35a5d86e-836a-41db-9252-a2b8de477174" name="Changes" comment="" />
@@ -66,6 +80,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677657068765</updated>
     </task>
+    <task id="LOCAL-00001" summary="20230301&#10;第一次push">
+      <created>1677664683905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677664683905</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20230301&#10;第一次push" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230301&#10;第一次push" />
   </component>
 </project>

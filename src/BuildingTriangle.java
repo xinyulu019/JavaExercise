@@ -61,5 +61,19 @@ public class BuildingTriangle {
         }
     }
 
+    public void showTriangle5(int n) {
+        int x = 0;
+        for(int i = 0; i < n ; i++) {
+            for(int k = (n-1); k > i; k--) {
+                System.out.print(" ");
+            }
+            for(int j = 0; j <= x; j++) {
+                System.out.print("*");
+            }
+            System.out.print("\n");
+            x+=2;
+        }
+    }
+
 
 }
